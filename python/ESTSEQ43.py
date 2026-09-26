@@ -1,4 +1,4 @@
-# Calcule e mostre quantos anos serão necessários para que Ana seja maior que Maria.
+#Calcule e mostre quantos anos serão necessários para que Ana seja maior que Maria.
 
 #Declarar.
 ana: float = 1.10
